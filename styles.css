@@ -4,7 +4,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: orange;
+  background-color: rgb(77, 50, 0);
   margin: 0;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 .card.flipped {
-  background-color: #fff;
+  background-color: #00ff1e;
   color: #333;
 }
 
